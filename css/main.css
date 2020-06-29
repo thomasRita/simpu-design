@@ -117,7 +117,8 @@
 
 /*Portfolio*/
 .portfolio {
-    margin: 0 auto;
+    /* margin: 0 auto; */
+    margin: -30em auto;
     position: relative;
 }
 
